@@ -7,7 +7,7 @@ Trying to learn [vlang](https://vlang.io) with the special focus on scripting fu
 ```bash
 make script
 make cli
-``
+```
 
 # References
 

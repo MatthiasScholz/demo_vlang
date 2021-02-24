@@ -1,6 +1,6 @@
 # Demo vlang
 
-Trying to learn [vlang]() with the special focus on scripting functionality.
+Trying to learn [vlang](https://vlang.io) with the special focus on scripting functionality.
 
 ## Usage
 

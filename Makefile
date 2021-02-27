@@ -1,14 +1,17 @@
 script:
 	@echo "INFO :: Running script demo"
-	./script.vsh
+	./demo_scripting.vsh
 
-.PHONY: cli
-cli:
-	@echo "INFO :: Build cli demo"
-	v cli.v
+.PHONY: demo_cli_interface
+demo_cli_interface:
+	@echo "INFO :: Build cli demo:"
+	v $@.v
 	@echo "INFO :: Running cli demo: https://modules.vlang.io/flag.html"
-	./cli greet -l de hello
-	./cli greet --language de hello
+	./$@ greet -l de hello
+	./$@ greet --language de hello
+
+cleanup:
+	rm -f demo_cli_interface
 
 install:
 	@echo "INFO :: Installing vlang locally"

@@ -1,0 +1,44 @@
+name,ring,quadrant,isNew,link
+single-spa,Trial,languages-and-frameworks,FALSE,https://single-spa.js.org
+LitElement,Assess,languages-and-frameworks,TRUE,https://lit-element.polymer-project.org
+Testing Library,Assess,languages-and-frameworks,TRUE,https://testing-library.com
+React,Adopt,languages-and-frameworks,FALSE,https://www.thoughtworks.com/radar/languages-and-frameworks/react-js
+Web-Component,Assess,languages-and-frameworks,TRUE,https://www.thoughtworks.com/radar/platforms/web-components-standard
+react-scripts,Hold,languages-and-frameworks,FALSE,http://example.com
+AWS,Assess,Platforms,FALSE,https://www.thoughtworks.com/radar/platforms/aws
+OnPremise,Hold,Platforms,FALSE,http://example.com
+Dependency drift fitness function,Adopt,Techniques,FALSE,http://example.com
+Micro frontend,Adopt,Techniques,FALSE,https://www.thoughtworks.com/radar/techniques/micro-frontends
+Microservices,Adopt,Techniques,FALSE,https://www.thoughtworks.com/radar/techniques/microservices
+CDN,Assess,Techniques,TRUE,http://example.com
+Continuous Delivery,Adopt,Techniques,FALSE,https://www.thoughtworks.com/radar/techniques/continuous-delivery-cd
+BFF,Assess,Techniques,FALSE,https://www.thoughtworks.com/radar/techniques/bff-backend-for-frontends
+Atomic Design,Adopt,Techniques,FALSE,https://bradfrost.com/blog/post/atomic-web-design/
+Front end instrumentation,Adopt,Techniques,FALSE,https://www.thoughtworks.com/radar/techniques/front-end-instrumentation
+NewRelic,Adopt,Tools,FALSE,http://example.com
+Splunk,Adopt,Tools,FALSE,https://www.thoughtworks.com/radar/tools/splunk
+FullStory,Trial,Tools,TRUE,http://example.com
+Docker,Adopt,Tools,FALSE,https://www.thoughtworks.com/radar/platforms/docker
+Docker-compose,Adopt,Tools,FALSE,https://www.thoughtworks.com/radar/tools/docker-toolbox
+Traefik,Adopt,Tools,FALSE,https://www.thoughtworks.com/radar/tools/traefik
+Artifactory,Adopt,Tools,FALSE,http://example.com
+npm,Adopt,Tools,FALSE,https://www.thoughtworks.com/radar/techniques/npm-for-all-the-things
+yarn,Hold,Tools,FALSE,https://www.thoughtworks.com/radar/tools/yarn
+gopass,Adopt,Tools,FALSE,https://www.thoughtworks.com/radar/tools/gopass
+cfssl,Assess,Tools,TRUE,https://blog.cloudflare.com/introducing-cfssl/
+Formik,Adopt,languages-and-frameworks,FALSE,https://formik.org
+hawkeye,Adopt,Tools,FALSE,https://github.com/hawkeyesec/scanner-cli
+rollup,Adopt,Tools,FALSE,https://rollupjs.org/guide/en/
+jest,Adopt,Tools,FALSE,http://example.com
+babel,Adopt,Tools,FALSE,http://example.com
+typescript,Adopt,languages-and-frameworks,FALSE,http://example.com
+Kotlin,Adopt,languages-and-frameworks,FALSE,https://kotlinlang.org/
+Spring Boot,Adopt,languages-and-frameworks,FALSE,https://spring.io/projects/spring-boot/
+PostCSS,Adopt,Tools,FALSE,http://example.com
+webpack,Hold,Tools,FALSE,http://example.com
+react starter,Hold,Tools,FALSE,http://example.com
+gradle,Adopt,Tools,FALSE,https://gradle.org/
+ADR,Adopt,Techniques,FALSE,https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records
+Format.js,Adopt,languages-and-frameworks,FALSE,https://formatjs.io
+Swagger,Adopt,Tools,FALSE,http://example.com
+Arrow,Adopt,languages-and-frameworks,FALSE,https://arrow-kt.io
